@@ -12,7 +12,7 @@ public class UppgiftMain {
 
      System.out.println("Hej!");
      System.out.println("Skriv hur mycket du vill och få uträknat hur många rader, tecken och ord du skrivit. Du får också veta vilket ord som var längst. :)");
-     System.out.println("För att avsluta, skriv 'stopp'");
+     System.out.println("För att avsluta, skriv 'stopp'.");
 
      String allInput = "";
 

@@ -69,7 +69,7 @@ public class UppgiftTest {
     }
 
     @Test
-    public void testOnlySpaceAndTab() {
+    public void testOnlySpaces() {
         UppgiftLogic text = new UppgiftLogic();
 
         text.addText("             ");
